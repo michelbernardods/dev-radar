@@ -48,7 +48,15 @@ Pra iniciar o parte mobile usarn yarn start dentro da pasta mobile
 
 ##### Linkedin https://www.linkedin.com/in/michel-bernardo
 
-![aplicaçao]()
+###### Backend - NodeJS
+![back](https://user-images.githubusercontent.com/42414475/72757980-35232500-3bb0-11ea-90ad-6ff29c2135b1.png)
+
+###### Web - ReactJS
+![web](https://user-images.githubusercontent.com/42414475/72758078-83d0bf00-3bb0-11ea-825a-c7950255a30f.png)
+
+###### Mobile - React Native
+![mobi](https://user-images.githubusercontent.com/42414475/72758095-90edae00-3bb0-11ea-88b1-41802373de9e.png)
+
 
 ## :memo: Licença
 
