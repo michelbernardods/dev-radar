@@ -1,5 +1,4 @@
-# DevRadar - Aplicação Omnistack 10.0
-
+<h1 align="center"> DevRadar </h1>
 
 <h4 align="center">
   ☕ Code and coffee
