@@ -29,21 +29,17 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<h3 align="center">
-  #rocketseat, #nodejs,#reactjs, #reactnative, #javascript, #express, #mvc, #mongodb, #axios, #eslint, #sucrase, #socket
-</h3>
 
-## 💻 Projeto
+## 💻 Abou The Project
 
-O DevRadar uma aplicação cujo objetivo é apresentar em um mapa os devs encontrados naquela região que têm conhecimento na tecnologías informada no campo de busca.
+`DevRadar is an application with the objective of showing a map with the developers found in that region who have knowledge in the technologies informed in the search field.`
 
 
-# Observações: 
-Para iniciar o backend usar o yarn dev dentro da pasta backend
-Pra iniciar o parte web usarn yarn start dentro da pasta web
-Pra iniciar o parte mobile usarn yarn start dentro da pasta mobile 
-É necessário baixar o app expo para ultilizar a aplicação mobile 
-
+# Comments: 
+- To start the backend use yarn dev inside the backend folder
+- To start the web part yarn yarn start inside the web folder
+- To start the mobile delivery use yarn start inside the mobile folder 
+- It is necessary to download the Expo app to use the mobile application
 
 ##### Linkedin https://www.linkedin.com/in/michel-bernardo
 
@@ -57,12 +53,10 @@ Pra iniciar o parte mobile usarn yarn start dentro da pasta mobile
 ![mobi](https://user-images.githubusercontent.com/42414475/72758095-90edae00-3bb0-11ea-88b1-41802373de9e.png)
 
 
-## :memo: Licença
+## :memo: License
 
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 ---
-Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Rocketseat :wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
 
 
