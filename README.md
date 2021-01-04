@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="#rocket-sobre-a-aplicação">Abou The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licence</a>
+  <a href="#memo-licença">License</a>
 </p>
 
 
