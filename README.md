@@ -55,7 +55,7 @@
 
 ## :memo: License
 
-##### This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
+##### This project is under the MIT license. See the archive [LICENCE](LICENSE.md) for more details.
 ---
 Rocketseat :wave: [Join our community!](https://discordapp.com/invite/gCRAFhc)
 
